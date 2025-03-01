@@ -114,6 +114,36 @@ This repository includes the following Jupyter Notebooks:
 
 Feel free to explore the notebooks and modify the code to experiment with different datasets.
 
+## In Order
+
+The files are jumbled up so go through them in this particular order:
+
+1. LinearReg1Variable.ipynb
+2. Homepricesmultivariable.ipynb
+3. Hiringsalarymulti.ipynb
+4. Gradientdescent_Costfunc.ipynb
+5. GradientdescentExercise.ipynb
+6. Incomecheck.ipynb
+7. model_joblib and model_pickle
+8. HotEncodingHomeprices.ipynb
+9. HotEncodingexercise.ipynb
+10. TrainTestSplit.ipynb
+11. LogisticRegression(binary).ipynb
+12. LogisticRegressionexercise(binary).ipynb
+13. LogisticRegressionMulticlass.ipynb
+14. LogisticRegressionMulticlassExercise.ipynb
+15. DecisionTree.ipynb
+16. DecisionTreeExerciseTitanic.ipynb
+17. SVM.ipynb
+18. SVMexercise.ipynb
+19. RandomForest.ipynb
+20. K-FoldCrossValidation.ipynb
+21. KMeansClustering.ipynb
+22. KMeansClusteringExercise.ipynb
+23. NaiveBayes1.ipynb
+24. NaiveBayes2.ipynb
+25. NaiveBayesExercise.ipynb
+
 ## How to Use
 
 1. Clone this repository to your local machine:
