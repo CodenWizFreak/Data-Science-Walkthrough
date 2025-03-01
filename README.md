@@ -147,7 +147,12 @@ The files are jumbled up so go through them in this particular order:
 27. L1L2.ipynb
 28. KNN.ipynb
 29. KNNExercise.ipynb
-30. PCA.ipynb
+30. BiasVSVariance.ipynb
+31. PCA.ipynb
+32. PCAExercise.ipynb
+33. Bagging.ipynb
+34. BaggingExercise.ipynb
+35. Featureengg1.ipynb
 
 ## How to Use
 
