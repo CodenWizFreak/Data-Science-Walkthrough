@@ -153,6 +153,8 @@ The files are jumbled up so go through them in this particular order:
 33. Bagging.ipynb
 34. BaggingExercise.ipynb
 35. Featureengg1.ipynb
+36. Featureengg1Exercise.ipynb
+37. Featureengg2.ipynb
 
 ## How to Use
 
