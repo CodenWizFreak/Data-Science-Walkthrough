@@ -155,6 +155,10 @@ The files are jumbled up so go through them in this particular order:
 35. Featureengg1.ipynb
 36. Featureengg1Exercise.ipynb
 37. Featureengg2.ipynb
+38. BHP folder (Bangalore Home Prices project with frontend)
+39. CFR folder (Celebrity Face Recognition project)
+
+All the datasets are provided in the datasets folder. Happy Learning!
 
 ## How to Use
 
