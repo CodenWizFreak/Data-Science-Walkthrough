@@ -143,6 +143,11 @@ The files are jumbled up so go through them in this particular order:
 23. NaiveBayes1.ipynb
 24. NaiveBayes2.ipynb
 25. NaiveBayesExercise.ipynb
+26. HyperParameterTuning.ipynb
+27. L1L2.ipynb
+28. KNN.ipynb
+29. KNNExercise.ipynb
+30. PCA.ipynb
 
 ## How to Use
 
