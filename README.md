@@ -23,7 +23,7 @@ The course includes the following topics:
 - Model evaluation and validation
 - Deep learning introduction
 - Data preprocessing and feature engineering
-- And more!
+- And some projects too!
 
 ## Course Structure
 
