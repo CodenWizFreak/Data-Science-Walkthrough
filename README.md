@@ -9,9 +9,10 @@ Welcome to this Machine Learning Course! This repository contains a collection o
 3. [Prerequisites](#prerequisites)
 4. [Setup Instructions](#setup-instructions)
 5. [Course Content](#course-content)
-6. [How to Use](#how-to-use)
-7. [License](#license)
-8. [Acknowledgments](#acknowledgments)
+6. [Ordered Course Content](#in-order)
+7. [How to Use](#how-to-use)
+8. [License](#license)
+9. [Acknowledgments](#acknowledgments)
 
 ## Introduction
 
